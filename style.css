@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+    font-family: 'Heebo', sans-serif;
+}
+.fst{
+    text-align: center;
+    position: absolute;
+    top: 25%;
+    bottom: 25%;
+    left: 25%;
+    right: 25%;
+    color: rgb(243, 248, 242);
+}
+.heading1{
+    font-size: 40px;
+    line-height: 15px;
+}
+.dnt-button{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: rgb(250, 213, 3);
+    color: rgb(15, 14, 14);
+    font-weight: 900;
+    border-radius: 3px;
+}
+.top-banner{
+    background-image: linear-gradient(rgba(151, 155, 155, 0), rgb(24, 8, 8)),url(images/1241411983.jpeg);
+    height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    
+}
